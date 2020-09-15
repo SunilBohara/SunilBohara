@@ -55,7 +55,7 @@ END_SECTION:activity-->
 <details>
   <summary>:zap: Github Stats</summary>
 
-  <img align="left" alt="codeSTACKr's Github Stats" src="https://github-readme-stats.sunilbohara.vercel.app/api?username=SunilBOhara&show_icons=true&hide_border=true" />
+  <img align="left" alt="codeSTACKr's Github Stats" src="https://github-readme-stats.sunilbohara.vercel.app/api?username=SunilBohara&show_icons=true&hide_border=true" />
 
 </details>
 
