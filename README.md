@@ -1,7 +1,7 @@
 ### Hi there, I'm [Sunil Bohara][website] 👋
 
-[![Website](https://img.shields.io/website?label=boharasunil.com.np&style=for-the-badge&url=https%3A%2F%2Fcodestackr.com)](https://twitter.com/SmyDose)
-[![Twitter Follow](https://img.shields.io/twitter/follow/SmyDose?color=1DA1F2&logo=twitter&style=for-the-badge)](https://boharasunil.com.np)
+[![Website](https://img.shields.io/website?label=boharasunil.com.np&style=for-the-badge&url=https%3A%2F%2Fcodestackr.com)](https://boharasunil.com.np)
+[![Twitter Follow](https://img.shields.io/twitter/follow/SmyDose?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/SmyDose)
 
 ## I tell daily to myself you have to change don't stop learning
 
