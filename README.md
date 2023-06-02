@@ -7,8 +7,8 @@
 
 - 🌱 Learner from Nepal
 - 🔭 I’m currently working on a Desktop Applications
-- 🌱 I'm a Software Developer Java,Swing,JavaFX,GUI,JS,UI/UX,Mysql,JS.
-- 🌱 Next Mission is to Learn Web-Development HTML5, CSS3, NodeJS  
+- 🌱 I'm a Software Developer Java,Swing,JavaFX,JS,Mysql, HTML5 & CSS3
+- 🌱 Next Mission is to Learn Web-Development HTML5, CSS3, Js, NodeJS  
 - 👯 I’m looking to collaborate with other content creators
 
 ### Connect with me:
